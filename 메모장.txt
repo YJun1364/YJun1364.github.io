@@ -1,0 +1,25 @@
+/
+	config.yml : 각종 설정 이미지 관련해서 추가 해야함
+
+_data/
+	authors.yml : 나에대한 설정
+	tags.yml : 글에 태그 달기 - 태그자체를 설정 할수 있음
+
+_includes/
+	navigation.html - meun 설정
+about/
+	index.html : about에 관한 내용 html 로 작성
+
+_about/
+	index.md - about  내용 작성
+
+_posts/
+	yyyy-mm-dd-title.md  형식으로 파일 작성
+
+asset/built/images
+	*.jpg
+
+* img
+	홈페이지 배경 - cover
+	유저 icon
+	title icon
